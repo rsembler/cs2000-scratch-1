@@ -24,7 +24,7 @@ three-layer-cake2("white", "blue", "red")
 
 
 #2 4 t-shirts that say "go team" 
-3 * (5.00 + (string-length("Go Team!") * 0.10))
+4 * (5.00 + (string-length("Go Team!") * 0.10))
 
 #3 7 t shirts that say "hello world" 
 7 * (5.00 + (string-length("Hello World") * 0.10))
